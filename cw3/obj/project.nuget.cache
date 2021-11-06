@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Mzm2AasphdtcNcJToxtzI60jkMmUBB8rm8Wz0y09iYtiMtQ+d6VYSuEH85H3bHlPZ0D+KtdDWmDxGNCKvCYGQ==",
+  "success": true,
+  "projectFilePath": "/Users/dawiddolowy/Desktop/Studia/s7/APBDx2/workplaceCW1/cw3/cw3/cw3.csproj",
+  "expectedPackageFiles": [
+    "/Users/dawiddolowy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dawiddolowy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dawiddolowy/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/dawiddolowy/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/dawiddolowy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/dawiddolowy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
